@@ -18,8 +18,8 @@ console.log("语音助手已就位!");
 // http://127.0.0.1:9999/reader?auther=用户1&content=你是谁😂1111
 
 //用mac自带语音朗读消息
-//var content = "骚气up在线买，，";
-//var auther = "Nine_Yan";
+//var content = "骚气up，，";
+//var auther = "aaaaa";
 // readFromMac(auther, content);
 function readFromMac(auther, content){
 	var process = require('child_process');
