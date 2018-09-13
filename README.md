@@ -1,10 +1,10 @@
 # bilibili_live_chat_reader
 
 # env
--> nodejs
+-> nodejs  
 Install nodejs from https://nodejs.org/en/download/
 
--> Tampermonkey
+-> Tampermonkey  
 use chrome or other browser
 then install https://tampermonkey.net/
 
@@ -12,17 +12,24 @@ then install https://tampermonkey.net/
 
 ```node macOS_http_say.js```
 
-click  https://semoz.github.io/bilibili_live_chat_reader/Tampermonkey/writer.js
-to install js
-or new js script and copy content
+click  https://semoz.github.io/bilibili_live_chat_reader/Tampermonkey/writer.js  
 
-open live page
+to install js  
+
+or new js script and copy content  
+
+open live page  
 done!
 
 # -----
-如何使用
-安装```nodejs```环境，安装浏览器油猴插件
-启动脚本：```node macOS_http_say.js```
-浏览器点击 https://semoz.github.io/bilibili_live_chat_reader/Tampermonkey/writer.js
-安装网页脚本
+# 如何使用  
+
+安装```nodejs```环境，安装浏览器油猴插件  
+
+启动脚本：```node macOS_http_say.js```  
+
+浏览器点击 https://semoz.github.io/bilibili_live_chat_reader/Tampermonkey/writer.js  
+
+安装网页脚本  
+
 完成！
