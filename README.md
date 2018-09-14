@@ -1,9 +1,5 @@
 # bilibili_live_chat_reader
 
-![screenshot](img/screenshot.png)
-
-
-
 # env
 -> nodejs  
 Install nodejs from https://nodejs.org/en/download/
@@ -37,3 +33,6 @@ done!
 安装网页脚本  
 
 完成！
+
+# view
+![screenshot](img/screenshot.png)
