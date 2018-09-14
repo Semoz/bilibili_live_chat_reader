@@ -23,9 +23,9 @@
                     //console.log(array);
                     var user = array[2][1];
                     var content = array[1];
-                    //var level = array[4][0];
+                    var level = array[4][0];
                     //console.log(user+":"+content);
-                    read(user, content);
+                    read(level, user, content);
                 }
             }
         }, false);
@@ -34,10 +34,11 @@
         };
     };
 
-    function read(user,content){
+    function read(level, user,content){
         var url= "http://127.0.0.1:9999/reader";
         url+="?user="+ user;
         url+="&content="+ content;
+        url+="&level="+ level;
         $.ajax({
             type:"GET",
             cache:false,
