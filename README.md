@@ -1,5 +1,9 @@
 # bilibili_live_chat_reader
 
+![screenshot](img/screenshot.png)
+
+
+
 # env
 -> nodejs  
 Install nodejs from https://nodejs.org/en/download/
